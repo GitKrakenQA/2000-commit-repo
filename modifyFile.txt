@@ -385,3 +385,4 @@ Add line 384 to modifyFile.txt
 Add line 385 to modifyFile.txt
 Add line 386 to modifyFile.txt
 Add line 387 to modifyFile.txt
+Add line 388 to modifyFile.txt
