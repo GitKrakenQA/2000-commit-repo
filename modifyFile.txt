@@ -1246,3 +1246,4 @@ Add line 1245 to modifyFile.txt
 Add line 1246 to modifyFile.txt
 Add line 1247 to modifyFile.txt
 Add line 1248 to modifyFile.txt
+Add line 1249 to modifyFile.txt
