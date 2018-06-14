@@ -1875,3 +1875,4 @@ Add line 1874 to modifyFile.txt
 Add line 1875 to modifyFile.txt
 Add line 1876 to modifyFile.txt
 Add line 1877 to modifyFile.txt
+Add line 1878 to modifyFile.txt
