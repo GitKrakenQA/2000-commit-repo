@@ -876,3 +876,4 @@ Add line 875 to modifyFile.txt
 Add line 876 to modifyFile.txt
 Add line 877 to modifyFile.txt
 Add line 878 to modifyFile.txt
+Add line 879 to modifyFile.txt
