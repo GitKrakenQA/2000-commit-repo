@@ -1281,3 +1281,4 @@ Add line 1280 to modifyFile.txt
 Add line 1281 to modifyFile.txt
 Add line 1282 to modifyFile.txt
 Add line 1283 to modifyFile.txt
+Add line 1284 to modifyFile.txt
