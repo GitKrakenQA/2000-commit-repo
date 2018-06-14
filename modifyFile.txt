@@ -286,3 +286,4 @@ Add line 285 to modifyFile.txt
 Add line 286 to modifyFile.txt
 Add line 287 to modifyFile.txt
 Add line 288 to modifyFile.txt
+Add line 289 to modifyFile.txt
