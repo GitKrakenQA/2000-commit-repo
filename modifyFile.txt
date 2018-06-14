@@ -1177,3 +1177,4 @@ Add line 1176 to modifyFile.txt
 Add line 1177 to modifyFile.txt
 Add line 1178 to modifyFile.txt
 Add line 1179 to modifyFile.txt
+Add line 1180 to modifyFile.txt
