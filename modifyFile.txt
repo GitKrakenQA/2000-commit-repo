@@ -644,3 +644,4 @@ Add line 643 to modifyFile.txt
 Add line 644 to modifyFile.txt
 Add line 645 to modifyFile.txt
 Add line 646 to modifyFile.txt
+Add line 647 to modifyFile.txt
