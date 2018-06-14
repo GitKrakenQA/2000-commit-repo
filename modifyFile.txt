@@ -1023,3 +1023,4 @@ Add line 1022 to modifyFile.txt
 Add line 1023 to modifyFile.txt
 Add line 1024 to modifyFile.txt
 Add line 1025 to modifyFile.txt
+Add line 1026 to modifyFile.txt
