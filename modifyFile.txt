@@ -1085,3 +1085,4 @@ Add line 1084 to modifyFile.txt
 Add line 1085 to modifyFile.txt
 Add line 1086 to modifyFile.txt
 Add line 1087 to modifyFile.txt
+Add line 1088 to modifyFile.txt
