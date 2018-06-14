@@ -1052,3 +1052,4 @@ Add line 1051 to modifyFile.txt
 Add line 1052 to modifyFile.txt
 Add line 1053 to modifyFile.txt
 Add line 1054 to modifyFile.txt
+Add line 1055 to modifyFile.txt
