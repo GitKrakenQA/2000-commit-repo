@@ -617,3 +617,4 @@ Add line 616 to modifyFile.txt
 Add line 617 to modifyFile.txt
 Add line 618 to modifyFile.txt
 Add line 619 to modifyFile.txt
+Add line 620 to modifyFile.txt
