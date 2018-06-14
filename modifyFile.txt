@@ -1377,3 +1377,4 @@ Add line 1376 to modifyFile.txt
 Add line 1377 to modifyFile.txt
 Add line 1378 to modifyFile.txt
 Add line 1379 to modifyFile.txt
+Add line 1380 to modifyFile.txt
