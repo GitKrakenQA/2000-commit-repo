@@ -1018,3 +1018,4 @@ Add line 1017 to modifyFile.txt
 Add line 1018 to modifyFile.txt
 Add line 1019 to modifyFile.txt
 Add line 1020 to modifyFile.txt
+Add line 1021 to modifyFile.txt
