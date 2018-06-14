@@ -473,3 +473,4 @@ Add line 472 to modifyFile.txt
 Add line 473 to modifyFile.txt
 Add line 474 to modifyFile.txt
 Add line 475 to modifyFile.txt
+Add line 476 to modifyFile.txt
