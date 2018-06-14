@@ -1674,3 +1674,4 @@ Add line 1673 to modifyFile.txt
 Add line 1674 to modifyFile.txt
 Add line 1675 to modifyFile.txt
 Add line 1676 to modifyFile.txt
+Add line 1677 to modifyFile.txt
