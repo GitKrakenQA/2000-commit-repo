@@ -342,3 +342,4 @@ Add line 341 to modifyFile.txt
 Add line 342 to modifyFile.txt
 Add line 343 to modifyFile.txt
 Add line 344 to modifyFile.txt
+Add line 345 to modifyFile.txt
