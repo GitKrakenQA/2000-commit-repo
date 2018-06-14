@@ -840,3 +840,4 @@ Add line 839 to modifyFile.txt
 Add line 840 to modifyFile.txt
 Add line 841 to modifyFile.txt
 Add line 842 to modifyFile.txt
+Add line 843 to modifyFile.txt
