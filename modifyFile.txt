@@ -697,3 +697,4 @@ Add line 696 to modifyFile.txt
 Add line 697 to modifyFile.txt
 Add line 698 to modifyFile.txt
 Add line 699 to modifyFile.txt
+Add line 700 to modifyFile.txt
