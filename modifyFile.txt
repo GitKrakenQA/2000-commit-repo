@@ -301,3 +301,4 @@ Add line 300 to modifyFile.txt
 Add line 301 to modifyFile.txt
 Add line 302 to modifyFile.txt
 Add line 303 to modifyFile.txt
+Add line 304 to modifyFile.txt
