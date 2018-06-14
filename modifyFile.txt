@@ -1047,3 +1047,4 @@ Add line 1046 to modifyFile.txt
 Add line 1047 to modifyFile.txt
 Add line 1048 to modifyFile.txt
 Add line 1049 to modifyFile.txt
+Add line 1050 to modifyFile.txt
