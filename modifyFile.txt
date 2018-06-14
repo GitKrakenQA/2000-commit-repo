@@ -1303,3 +1303,4 @@ Add line 1302 to modifyFile.txt
 Add line 1303 to modifyFile.txt
 Add line 1304 to modifyFile.txt
 Add line 1305 to modifyFile.txt
+Add line 1306 to modifyFile.txt
