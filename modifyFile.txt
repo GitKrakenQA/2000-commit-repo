@@ -979,3 +979,4 @@ Add line 978 to modifyFile.txt
 Add line 979 to modifyFile.txt
 Add line 980 to modifyFile.txt
 Add line 981 to modifyFile.txt
+Add line 982 to modifyFile.txt
