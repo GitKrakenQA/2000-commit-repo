@@ -1069,3 +1069,4 @@ Add line 1068 to modifyFile.txt
 Add line 1069 to modifyFile.txt
 Add line 1070 to modifyFile.txt
 Add line 1071 to modifyFile.txt
+Add line 1072 to modifyFile.txt
