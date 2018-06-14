@@ -997,3 +997,4 @@ Add line 996 to modifyFile.txt
 Add line 997 to modifyFile.txt
 Add line 998 to modifyFile.txt
 Add line 999 to modifyFile.txt
+Add line 1000 to modifyFile.txt
