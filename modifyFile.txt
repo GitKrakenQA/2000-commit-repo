@@ -1184,3 +1184,4 @@ Add line 1183 to modifyFile.txt
 Add line 1184 to modifyFile.txt
 Add line 1185 to modifyFile.txt
 Add line 1186 to modifyFile.txt
+Add line 1187 to modifyFile.txt
