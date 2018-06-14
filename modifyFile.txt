@@ -1265,3 +1265,4 @@ Add line 1264 to modifyFile.txt
 Add line 1265 to modifyFile.txt
 Add line 1266 to modifyFile.txt
 Add line 1267 to modifyFile.txt
+Add line 1268 to modifyFile.txt
