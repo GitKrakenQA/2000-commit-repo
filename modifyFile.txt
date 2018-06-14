@@ -1003,3 +1003,4 @@ Add line 1002 to modifyFile.txt
 Add line 1003 to modifyFile.txt
 Add line 1004 to modifyFile.txt
 Add line 1005 to modifyFile.txt
+Add line 1006 to modifyFile.txt
