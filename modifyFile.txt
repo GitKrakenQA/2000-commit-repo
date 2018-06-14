@@ -579,3 +579,4 @@ Add line 578 to modifyFile.txt
 Add line 579 to modifyFile.txt
 Add line 580 to modifyFile.txt
 Add line 581 to modifyFile.txt
+Add line 582 to modifyFile.txt
