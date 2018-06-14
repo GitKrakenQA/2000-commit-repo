@@ -45,3 +45,4 @@ Add line 44 to modifyFile.txt
 Add line 45 to modifyFile.txt
 Add line 46 to modifyFile.txt
 Add line 47 to modifyFile.txt
+Add line 48 to modifyFile.txt
