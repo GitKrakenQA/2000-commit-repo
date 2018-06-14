@@ -42,3 +42,4 @@ Add line 41 to modifyFile.txt
 Add line 42 to modifyFile.txt
 Add line 43 to modifyFile.txt
 Add line 44 to modifyFile.txt
+Add line 45 to modifyFile.txt
