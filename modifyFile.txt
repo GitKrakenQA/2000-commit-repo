@@ -479,3 +479,4 @@ Add line 478 to modifyFile.txt
 Add line 479 to modifyFile.txt
 Add line 480 to modifyFile.txt
 Add line 481 to modifyFile.txt
+Add line 482 to modifyFile.txt
