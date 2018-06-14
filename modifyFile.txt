@@ -709,3 +709,4 @@ Add line 708 to modifyFile.txt
 Add line 709 to modifyFile.txt
 Add line 710 to modifyFile.txt
 Add line 711 to modifyFile.txt
+Add line 712 to modifyFile.txt
