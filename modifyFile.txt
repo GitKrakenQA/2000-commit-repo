@@ -1223,3 +1223,4 @@ Add line 1222 to modifyFile.txt
 Add line 1223 to modifyFile.txt
 Add line 1224 to modifyFile.txt
 Add line 1225 to modifyFile.txt
+Add line 1226 to modifyFile.txt
