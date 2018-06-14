@@ -1205,3 +1205,4 @@ Add line 1204 to modifyFile.txt
 Add line 1205 to modifyFile.txt
 Add line 1206 to modifyFile.txt
 Add line 1207 to modifyFile.txt
+Add line 1208 to modifyFile.txt
