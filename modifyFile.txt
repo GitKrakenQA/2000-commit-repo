@@ -49,3 +49,4 @@ Add line 48 to modifyFile.txt
 Add line 49 to modifyFile.txt
 Add line 50 to modifyFile.txt
 Add line 51 to modifyFile.txt
+Add line 52 to modifyFile.txt
