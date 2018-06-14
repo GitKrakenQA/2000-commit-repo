@@ -704,3 +704,4 @@ Add line 703 to modifyFile.txt
 Add line 704 to modifyFile.txt
 Add line 705 to modifyFile.txt
 Add line 706 to modifyFile.txt
+Add line 707 to modifyFile.txt
