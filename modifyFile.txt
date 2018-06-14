@@ -799,3 +799,4 @@ Add line 798 to modifyFile.txt
 Add line 799 to modifyFile.txt
 Add line 800 to modifyFile.txt
 Add line 801 to modifyFile.txt
+Add line 802 to modifyFile.txt
