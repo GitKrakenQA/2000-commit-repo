@@ -1015,3 +1015,4 @@ Add line 1014 to modifyFile.txt
 Add line 1015 to modifyFile.txt
 Add line 1016 to modifyFile.txt
 Add line 1017 to modifyFile.txt
+Add line 1018 to modifyFile.txt
