@@ -1493,3 +1493,4 @@ Add line 1492 to modifyFile.txt
 Add line 1493 to modifyFile.txt
 Add line 1494 to modifyFile.txt
 Add line 1495 to modifyFile.txt
+Add line 1496 to modifyFile.txt
