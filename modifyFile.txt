@@ -1523,3 +1523,4 @@ Add line 1522 to modifyFile.txt
 Add line 1523 to modifyFile.txt
 Add line 1524 to modifyFile.txt
 Add line 1525 to modifyFile.txt
+Add line 1526 to modifyFile.txt
