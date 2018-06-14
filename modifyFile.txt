@@ -639,3 +639,4 @@ Add line 638 to modifyFile.txt
 Add line 639 to modifyFile.txt
 Add line 640 to modifyFile.txt
 Add line 641 to modifyFile.txt
+Add line 642 to modifyFile.txt
