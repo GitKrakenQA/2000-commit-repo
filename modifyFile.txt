@@ -1986,3 +1986,4 @@ Add line 1985 to modifyFile.txt
 Add line 1986 to modifyFile.txt
 Add line 1987 to modifyFile.txt
 Add line 1988 to modifyFile.txt
+Add line 1989 to modifyFile.txt
