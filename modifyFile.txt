@@ -97,3 +97,4 @@ Add line 96 to modifyFile.txt
 Add line 97 to modifyFile.txt
 Add line 98 to modifyFile.txt
 Add line 99 to modifyFile.txt
+Add line 100 to modifyFile.txt
