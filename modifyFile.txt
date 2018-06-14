@@ -523,3 +523,4 @@ Add line 522 to modifyFile.txt
 Add line 523 to modifyFile.txt
 Add line 524 to modifyFile.txt
 Add line 525 to modifyFile.txt
+Add line 526 to modifyFile.txt
