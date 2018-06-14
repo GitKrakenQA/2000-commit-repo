@@ -1039,3 +1039,4 @@ Add line 1038 to modifyFile.txt
 Add line 1039 to modifyFile.txt
 Add line 1040 to modifyFile.txt
 Add line 1041 to modifyFile.txt
+Add line 1042 to modifyFile.txt
