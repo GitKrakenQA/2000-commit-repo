@@ -1256,3 +1256,4 @@ Add line 1255 to modifyFile.txt
 Add line 1256 to modifyFile.txt
 Add line 1257 to modifyFile.txt
 Add line 1258 to modifyFile.txt
+Add line 1259 to modifyFile.txt
