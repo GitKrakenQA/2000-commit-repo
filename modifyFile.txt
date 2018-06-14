@@ -142,3 +142,4 @@ Add line 141 to modifyFile.txt
 Add line 142 to modifyFile.txt
 Add line 143 to modifyFile.txt
 Add line 144 to modifyFile.txt
+Add line 145 to modifyFile.txt
