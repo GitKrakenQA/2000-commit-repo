@@ -1215,3 +1215,4 @@ Add line 1214 to modifyFile.txt
 Add line 1215 to modifyFile.txt
 Add line 1216 to modifyFile.txt
 Add line 1217 to modifyFile.txt
+Add line 1218 to modifyFile.txt
