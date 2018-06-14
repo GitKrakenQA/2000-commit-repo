@@ -1193,3 +1193,4 @@ Add line 1192 to modifyFile.txt
 Add line 1193 to modifyFile.txt
 Add line 1194 to modifyFile.txt
 Add line 1195 to modifyFile.txt
+Add line 1196 to modifyFile.txt
