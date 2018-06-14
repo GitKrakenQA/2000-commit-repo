@@ -677,3 +677,4 @@ Add line 676 to modifyFile.txt
 Add line 677 to modifyFile.txt
 Add line 678 to modifyFile.txt
 Add line 679 to modifyFile.txt
+Add line 680 to modifyFile.txt
