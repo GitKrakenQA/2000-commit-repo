@@ -692,3 +692,4 @@ Add line 691 to modifyFile.txt
 Add line 692 to modifyFile.txt
 Add line 693 to modifyFile.txt
 Add line 694 to modifyFile.txt
+Add line 695 to modifyFile.txt
