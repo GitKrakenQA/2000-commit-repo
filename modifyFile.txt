@@ -239,3 +239,4 @@ Add line 238 to modifyFile.txt
 Add line 239 to modifyFile.txt
 Add line 240 to modifyFile.txt
 Add line 241 to modifyFile.txt
+Add line 242 to modifyFile.txt
