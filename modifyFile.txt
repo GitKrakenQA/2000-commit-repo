@@ -1344,3 +1344,4 @@ Add line 1343 to modifyFile.txt
 Add line 1344 to modifyFile.txt
 Add line 1345 to modifyFile.txt
 Add line 1346 to modifyFile.txt
+Add line 1347 to modifyFile.txt
