@@ -1009,3 +1009,4 @@ Add line 1008 to modifyFile.txt
 Add line 1009 to modifyFile.txt
 Add line 1010 to modifyFile.txt
 Add line 1011 to modifyFile.txt
+Add line 1012 to modifyFile.txt
