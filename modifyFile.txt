@@ -378,3 +378,4 @@ Add line 377 to modifyFile.txt
 Add line 378 to modifyFile.txt
 Add line 379 to modifyFile.txt
 Add line 380 to modifyFile.txt
+Add line 381 to modifyFile.txt
