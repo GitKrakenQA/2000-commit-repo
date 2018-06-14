@@ -245,3 +245,4 @@ Add line 244 to modifyFile.txt
 Add line 245 to modifyFile.txt
 Add line 246 to modifyFile.txt
 Add line 247 to modifyFile.txt
+Add line 248 to modifyFile.txt
