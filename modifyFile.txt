@@ -779,3 +779,4 @@ Add line 778 to modifyFile.txt
 Add line 779 to modifyFile.txt
 Add line 780 to modifyFile.txt
 Add line 781 to modifyFile.txt
+Add line 782 to modifyFile.txt
